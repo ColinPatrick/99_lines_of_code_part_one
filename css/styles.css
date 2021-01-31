@@ -12,6 +12,11 @@ h3 {
   text-transform: uppercase;
 }
 
+.btnArea {
+  text-align: center;
+  margin-top: 5%;
+}
+
 .friend {
   background-color: #949cdf;
   text-align: center;
